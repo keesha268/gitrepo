@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    background-image: url("br_paper.png");
+    font-family: cursive;
+}
+
+div#header h1 {
+    text-align: center;
+    color: goldenrod;
+    font-size: xx-large;
+    font-weight: bold ;
+}
+
+table {
+    font-size: medium;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    background-color: #FFF0BF;
+    font-size: medium;
+}
